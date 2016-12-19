@@ -10,9 +10,9 @@ To run this script:
 
 Here is a list (in order) of what this script does:
 
-flushes DNS Entries
-Purges and reloads remote cache name tables
-Sends Name Release packets to WINS and starts Refresh
-Resets TCP/IP settings
-Resets Winsock service
-Restarts computer
+flushes DNS Entries,
+Purges and reloads remote cache name tables,
+Sends Name Release packets to WINS and starts Refresh,
+Resets TCP/IP settings,
+Resets Winsock service,
+Restarts computer,
