@@ -1,4 +1,7 @@
 @echo off
+::Author Walter Carman
+::Date 12/18/16
+::Version 1.00
 :check_Permissions
 
     net session >nul 2>&1
