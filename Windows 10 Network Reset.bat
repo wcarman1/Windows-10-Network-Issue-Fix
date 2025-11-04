@@ -49,4 +49,4 @@ pause>nul
 echo.
 echo.
 echo Restarting Now...
-shutdown.exe /r /t 05
+shutdown.exe /r /t 5
